@@ -10,7 +10,7 @@ namespace PIS_Vjezba_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tekst");
+            Console.WriteLine("Tekst dva");
         }
     }
 }
