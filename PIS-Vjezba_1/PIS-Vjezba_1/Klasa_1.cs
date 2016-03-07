@@ -8,5 +8,9 @@ namespace PIS_Vjezba_1
 {
     class Klasa_1
     {
+        public void prop2()
+        {
+            
+        }
     }
 }
